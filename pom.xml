@@ -27,19 +27,10 @@
 	</properties>
 
 	<dependencies>
-		<!-- packet_biz -->
-		<dependency>
-			<groupId>com.sermo</groupId>
-			<artifactId>packet_biz</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-			<scope>provided</scope>
-		</dependency>
-
 		<dependency>
 			<groupId>org.springframework.data</groupId>
 			<artifactId>spring-data-mongodb</artifactId>
-			<version>1.7.0.RELEASE</version>
-			<scope>provided</scope>
+			<version>1.8.4.RELEASE</version>
 		</dependency>
 	</dependencies>
 </project>
